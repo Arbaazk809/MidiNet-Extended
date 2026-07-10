@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "MidiNet-Extended: Multi-Bar Conditional Symbolic Music Generation using GANs"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Khan
+    given-names: Arbaz
+
+version: 1.0.0
+
+date-released: 2026-07-10
+
+repository-code: "https://github.com/Arbaazk809/MidiNet-Extended"
+
+license: MIT
