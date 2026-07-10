@@ -263,12 +263,12 @@ BTU Cottbus, Deutschland
 
 Interessengebiete:
 
+- Data Science
 - Machine Learning
 - Deep Learning
 - Generative KI
 - Natural Language Processing (NLP)
-- Music AI
-- Computer Vision
+  
 
 ---
 
